@@ -17,7 +17,7 @@ A multi-page **admin dashboard interface** built using **HTML and CSS only**, fo
 
 ## 🚀 Design Demo
 
-<a href="https://hamzawaleednasr.github.io/dashboard-design/">Click Here</a>, To See Design.
+<a href="https://hamzawaleednasr.github.io/dashboard-design/" target="_blank">Click Here</a>, To See Design.
 
 ---
 
