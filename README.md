@@ -1,4 +1,4 @@
-# Responsive Admin Dashboard 🎛️
+<img width="848" height="197" alt="image" src="https://github.com/user-attachments/assets/6df9820a-bc81-41ed-82d9-4cf8e4161eeb" /># Responsive Admin Dashboard 🎛️
 
 A multi-page **admin dashboard interface** built using **HTML and CSS only**, focusing on clean layout design, responsive structure, and reusable UI components.
 
@@ -15,6 +15,12 @@ A multi-page **admin dashboard interface** built using **HTML and CSS only**, fo
 
 ---
 
+## 🚀 Design Demo
+
+<a href="https://hamzawaleednasr.github.io/dashboard-design/">Click Here</a>, To See Design.
+
+---
+
 ## 🛠 Tech Stack
 
 - HTML5
@@ -25,25 +31,21 @@ A multi-page **admin dashboard interface** built using **HTML and CSS only**, fo
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
+```text
 Dashboard Project/
-│
-├── index.html          # Main dashboard page
-├── profile.html        # User profile page
-├── projects.html       # Projects overview
-├── courses.html        # Courses section
-├── friends.html        # Friends / connections page
-├── plans.html          # Plans & pricing page
-├── settings.html       # Account settings
-│
+├── index.html        # Main dashboard page
+├── profile.html      # User profile page
+├── projects.html     # Projects overview
+├── courses.html      # Courses section
+├── friends.html      # Friends / connections page
+├── plans.html        # Plans & pricing page
+├── settings.html     # Account settings
 ├── css/
-│   ├── master.css      # Main stylesheet
-│   └── all.min.css     # Font Awesome styles
-│
-├── imgs/               # Images and UI assets
-└── webfonts/           # Font Awesome web fonts
-
+│   ├── master.css    # Main stylesheet
+│   └── all.min.css   # Font Awesome styles
+├── imgs/             # Images and UI assets
+└── webfonts/         # Font Awesome web fonts
+```
 
 ---
 
