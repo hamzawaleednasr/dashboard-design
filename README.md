@@ -1,4 +1,4 @@
-<img width="848" height="197" alt="image" src="https://github.com/user-attachments/assets/6df9820a-bc81-41ed-82d9-4cf8e4161eeb" /># Responsive Admin Dashboard 🎛️
+# Responsive Admin Dashboard 🎛️
 
 A multi-page **admin dashboard interface** built using **HTML and CSS only**, focusing on clean layout design, responsive structure, and reusable UI components.
 
